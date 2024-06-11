@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil❤️
 
-<!--
-**chirley014/chirley014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicolas Santos👻
 
-Here are some ideas to get you started:
+-Estou estudando na alura
+-Estou me desenvolvendo na línguagem JavaScript
+-Utilizando esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para você entrar em contato comigo📮
+
+-santos_nicolas013/instagram⚡
+
+![](![gatinho](https://github.com/chirley014/chirley014/assets/171747866/9e914f93-2696-45d4-81d5-4bfa3893e7de)
